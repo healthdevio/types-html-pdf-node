@@ -1,0 +1,27 @@
+{
+  "name": "@types/html-pdf-node",
+  "version": "1.0.0",
+  "description": "TypeScript definitions for html-pdf-node",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/html-pdf-node",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "bojovypstros",
+      "url": "https://github.com/bojovypstros",
+      "githubUsername": "bojovypstros"
+    }
+  ],
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/html-pdf-node"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "a9baa3d6d08cf8e3af49f3b43085634c5bf7a2bcec47d0741de82ed0604e6542",
+  "typeScriptVersion": "4.1"
+}
